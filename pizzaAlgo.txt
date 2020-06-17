@@ -1,3 +1,8 @@
 find a good pizza place 
 order the pizza 
 choose toppings
+choose how many pizzas i want 
+greet the delivery man 
+pay tip 
+grab pizzas
+1a. careful its too hot 
